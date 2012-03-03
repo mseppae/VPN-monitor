@@ -1,0 +1,4 @@
+Applescript that checks the status of VPN and quits Transmission if it is not on
+
+System Requirements
+OSX Lion (probably older ones too)
