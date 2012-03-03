@@ -1,4 +1,7 @@
 Applescript that checks the status of VPN and quits Transmission if it is not on
 
+Notes
+  Make sure that Transmission does not prompt for quit with active transfers.
+
 System Requirements
 OSX Lion (probably older ones too)
