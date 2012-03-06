@@ -5,9 +5,6 @@ on idle
 			tell application "Transmission"
 				quit saving yes
 			end tell
-			tell application "Tunnelblick"
-				connect "Switzerland - TCP"
-			end tell
 		else
 			tell application "Transmission"
 				if it is not running then
